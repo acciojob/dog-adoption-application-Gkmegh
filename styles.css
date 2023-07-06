@@ -1,2 +1,25 @@
+body{
+	margin-left:10px;
+}
+#name{
+	display:flex;
+	margin-bottom:10px;
+}
+#phone{
+	display:flex;
+	margin-bottom:10px;
+}
+#address{
+	display:flex;
+	margin-bottom:5px;
+}
+#checkbox{
+	margin-bottom:10px;
+}
+#multiSelect{
+	margin:15px;
+}
 
-/* Your CSS Code here. */
+
+
+
